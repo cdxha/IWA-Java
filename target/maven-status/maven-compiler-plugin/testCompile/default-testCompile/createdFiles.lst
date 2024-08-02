@@ -1,0 +1,16 @@
+com/microfocus/example/DataSeeder.class
+com/microfocus/example/BaseIntegrationTest.class
+com/microfocus/example/misc/SomeTest.class
+com/microfocus/example/misc/MoreTest.class
+com/microfocus/example/repository/ProductRepositoryTest.class
+com/microfocus/example/repository/OrderRepositoryTest.class
+com/microfocus/example/web/validation/ChangePasswordControllerTest.class
+com/microfocus/example/web/DefaultControllerTest.class
+com/microfocus/example/web/validation/PasswordConstraintValidatorTest.class
+com/microfocus/example/BaseSeleniumTest.class
+com/microfocus/example/repository/MessageRepositoryTest.class
+com/microfocus/example/misc/BaseTest.class
+com/microfocus/example/repository/UserRepositoryTest.class
+com/microfocus/example/service/ProductServiceTest.class
+com/microfocus/example/service/UserServiceTest.class
+com/microfocus/example/repository/ReviewRepositoryTest.class

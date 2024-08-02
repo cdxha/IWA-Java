@@ -1,0 +1,16 @@
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/web/validation/PasswordConstraintValidatorTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/repository/MessageRepositoryTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/misc/SomeTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/repository/ProductRepositoryTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/misc/BaseTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/DataSeeder.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/BaseIntegrationTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/misc/MoreTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/service/UserServiceTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/repository/ReviewRepositoryTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/service/ProductServiceTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/web/validation/ChangePasswordControllerTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/repository/OrderRepositoryTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/repository/UserRepositoryTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/BaseSeleniumTest.java
+/home/gandalf/IWA-Java-v1.0/src/test/java/com/microfocus/example/web/DefaultControllerTest.java
